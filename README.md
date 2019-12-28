@@ -15,7 +15,12 @@ Unsupervised Learning Models for LIBS
 
 ```
 @Misc{TestLibs,
-title =
+title = {TestLibs -- Unsupervised Learning Models for LIBS},
+author = {Wen-xu Xu},
+year = {2019},
+howpublished = {\url{https://github.com/xuwx789/TestLibs}}
+}
+```
 
 ## License
 
