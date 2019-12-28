@@ -9,4 +9,6 @@ Unsupervised Learning Models for LIBS
 ```
  git clone https://github.com/xuwx789/TestLibs.git
 ```
+2. Run python and navigate to the code folder.
 
+## Citation
