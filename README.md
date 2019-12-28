@@ -12,3 +12,11 @@ Unsupervised Learning Models for LIBS
 2. Run python and navigate to the code folder.
 
 ## Citation
+
+## License
+
+Released under MIT license
+
+## Contact
+
+xuwx789@126.com
